@@ -10,7 +10,7 @@
 
 body{
     font-size: 100%;
-    background: linear-gradient(68.15deg, #ff748c 16.62%, #ffdae0 85.61%);
+    background: linear-gradient(68.15deg, #eca776 16.62%, #794825 85.61%);
 }
 
 .cabecalho{
@@ -32,14 +32,14 @@ body{
 
 .cabecalho-menu-item{
     font-family: 'Nunito', sans-serif;
-    color: #bf5265;
+    color: #231205;
     font-weight: 400;
     font-size: 18px;
 }
 
 .conteudo{
     margin-bottom: 48px;
-    border-top: 0.4px solid #bf5265;
+    border-top: 0.4px solid #46230a;
 }
 
 .conteudo-principal{
@@ -58,27 +58,27 @@ body{
 
 .conteudo-principal-escrito-titulo{
     font-family: 'Lobster', cursive;
-    color: #551f29;
+    color: #46230a;
     font-weight: 400;
     font-size: 64px;
 }
 
 .conteudo-principal-escrito-subtitulo{
     font-family: 'Nunito', sans-serif;
-    color: #551f29;
+    color: #231205;
     font-weight: 400;
     font-size: 24px;
 }
 
 .conteudo-principal-escrito-botao{
-    background-color: #ffdae0;
+    background-color: #794825;
     width: 180px;
     height: 60px;
     border: none;
-    box-shadow: 4px 5px 4px #551f29;
+    box-shadow: 4px 5px 4px #231205;
     border-radius: 20px;
     font-family: 'Nunito', sans-serif;
-    color: #bf5265;
+    color: #eca776;
     font-weight: 400;
     font-size: 24px;
 }
@@ -97,9 +97,9 @@ body{
 
 .conteudo-secundario-titulo{
     padding-top: 48px;
-    border-top: 0.4px solid #bf5265;
+    border-top: 0.4px solid #46230a;
     font-family: 'Lobster', cursive;
-    color: #551f29;
+    color: #46230a;
     font-weight: 400;
     font-size: 24px;
     margin-bottom: 16px;
@@ -107,19 +107,19 @@ body{
 
 .conteudo-secundario-paragrafo{
     font-family: 'Nunito', sans-serif;
-    color: #bf5265;
+    color: #231205;
     font-weight: 300;
     font-size: 18px;
 }
 
 .rodape{
     padding: 32px;
-    border-top: 0.4px solid #bf5265;
+    border-top: 0.4px solid #46230a;
 }
 
 .rodape-nome{
     font-family: 'Lobster', cursive;
-    color: #551f29;
+    color: #46230a;
     font-weight: 400;
     font-size: 24px;
     display: flex;
